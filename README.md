@@ -1,6 +1,7 @@
 # 2D Shooting Game
 
 This project is a 2D shooting game developed in Unity. The game features a player character that can move left and right, jump, and shoot targets to increase their score. The game also includes a timer, and when the timer reaches 0, the game restarts.
+![Screenshot](Assets/Game.png)
 
 ## Getting Started
 
